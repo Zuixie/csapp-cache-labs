@@ -1,0 +1,4 @@
+*.o
+csim
+csim.dSYM/*
+.csim_results
