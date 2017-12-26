@@ -37,3 +37,9 @@ test-csim*   Tests your cache simulator
 test-trans.c Tests your transpose function
 tracegen.c   Helper program used by test-trans
 traces/      Trace files used by test-csim.c
+
+# add by myself
+show_trans2excel.py Analyse PartB miss result and generate a .xlsx file to visualize the results
+result.xlsx result  For PartB 61*67 (for i,j), generate by show_trans2excel.py
+result_j_i.xlsx     For PartB 61*67 (for j,i), generate by show_trans2excel.py  
+
